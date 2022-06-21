@@ -1,6 +1,11 @@
 ![WhatsApp Image 2022-06-11 at 7 05 05 PM](https://user-images.githubusercontent.com/64277081/174732787-0f44120f-c72f-4b56-98ce-ea009a7dd78e.jpeg)
 # video
-Uploading WhatsApp Video 2022-06-11 at 4.16.24 PM.mp4…
+
+
+
+https://user-images.githubusercontent.com/64277081/174752746-549581fa-6613-4e8e-8c9a-260d98860098.mp4
+
+
 
 # circuit Diagram
 ![image](https://user-images.githubusercontent.com/64277081/174733805-bd2b31a3-8cf5-4939-9fc3-259f66bf578f.png)
