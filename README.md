@@ -1,4 +1,5 @@
 ![WhatsApp Image 2022-06-11 at 7 05 05 PM](https://user-images.githubusercontent.com/64277081/174732787-0f44120f-c72f-4b56-98ce-ea009a7dd78e.jpeg)
+![image](https://user-images.githubusercontent.com/64277081/174733805-bd2b31a3-8cf5-4939-9fc3-259f66bf578f.png)
 
 
 # Social-Distancing-Device
